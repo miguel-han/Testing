@@ -1,0 +1,25 @@
+a{
+  text-decoration: none;
+  font-size: 3em;
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color:white;
+}
+
+a:active {
+  color: yellow;
+}
+
+.redp {
+  color:red;
+}
+
+h2 {
+  color:white;
+}

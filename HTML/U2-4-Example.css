@@ -1,0 +1,51 @@
+* {
+   box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-image: url("back.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#e1h {
+  border: thick solid red;
+  padding: 25px;
+  margin: 4px 10px;
+  background-color: gray;
+}
+
+#e1s {
+  border: medium dotted green;
+  padding: 10px 20px 30px;
+  margin: 0px;
+  background-color: violet;
+}
+
+#e2h {
+  border: thick outset cyan;
+  background-color: violet;
+  width: 500px;
+}
+
+#e2d {
+  border: 10px double black;
+}
+
+#e3h {
+  border: thick groove gainsboro;
+  width: 65%;
+  margin: auto;
+}
+
+.col {
+  width: 50%;
+  border: thin solid red;
+  float: left;
+}
+
+#e5s {
+  border: medium solid blue;
+  clear: left;
+  background-image: linear-gradient(to right bottom, red, blue);
+}
